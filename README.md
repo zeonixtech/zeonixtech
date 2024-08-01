@@ -1,4 +1,4 @@
--    Hi I am *Zeonix Global*
+-    Hi I am **Zeonix Global**
 -    We are solving problems across various domains using AI/ML and other upcoming technologies.
 -    You can reach me at www.zeonixglobal.com
 -    ⚡ Fun fact: We are using our own products before offering it to others :)
